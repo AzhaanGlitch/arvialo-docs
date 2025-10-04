@@ -6,7 +6,7 @@ title: Vite
 
 Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 
-[Example repository.](https://github.com/arvialoio/arvialo-examples/tree/main/vite)
+[Example repository.](https://github.com/AzhaanGlitch/arvialo-docs-examples/tree/main/vite)
 
 ## Vanilla TypeScript build (Static)
 

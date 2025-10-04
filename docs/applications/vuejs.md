@@ -6,7 +6,7 @@ title: Vue
 
 Vue.js is an approachable, performant and versatile framework for building web user interfaces.
 
-[Example repository.](https://github.com/arvialoio/arvialo-examples/tree/main/vue)
+[Example repository.](https://github.com/AzhaanGlitch/arvialo-docs-examples/tree/main/vue)
 
 ## Server build (NodeJS|Express)
 

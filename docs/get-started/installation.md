@@ -134,7 +134,7 @@ Once your server is ready, run:
 curl -fsSL https://cdn.arvialo.io/arvialo/install.sh | bash
 ```
 
-View the [Script's Source Code ↗](https://github.com/arvialoio/arvialo/blob/main/scripts/install.sh)
+View the [Script's Source Code ↗](https://github.com/AzhaanGlitch/arvialo-docs/blob/main/scripts/install.sh)
 
 ::: info Tip: 
   If you're not logged in as the root user, run the script with sudo:

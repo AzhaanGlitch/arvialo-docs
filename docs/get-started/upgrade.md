@@ -73,7 +73,7 @@ Replace `4.0.0-beta.400` with the version number you want to upgrade to.
 
 
 ### How it works?
-This command runs the official [Arvialo installation script ↗](https://github.com/arvialoio/arvialo/blob/main/scripts/install.sh). The script checks the [CDN ↗](https://cdn.arvialo.io/arvialo/versions.json) for the latest version and updates your Arvialo Instance.
+This command runs the official [Arvialo installation script ↗](https://github.com/AzhaanGlitch/arvialo-docs/blob/main/scripts/install.sh). The script checks the [CDN ↗](https://cdn.arvialo.io/arvialo/versions.json) for the latest version and updates your Arvialo Instance.
 
 
 ::: success Tip

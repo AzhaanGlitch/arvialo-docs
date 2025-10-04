@@ -65,7 +65,7 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
-          { text: 'Releases', link: 'https://github.com/arvialoio/arvialo/releases' },
+          { text: 'Releases', link: 'https://github.com/AzhaanGlitch/arvialo-docs/releases' },
           { text: 'Support', link: 'https://arvialo.io/' },
           { text: 'Sponsor us', link: 'https://arvialo.io/sponsorships/' }
         ]
@@ -79,12 +79,12 @@ export default defineConfig({
     outline: [2, 4],
 
     editLink: {
-      pattern: 'https://github.com/arvialoio/documentation-arvialo/tree/main/docs/:path',
+      pattern: 'https://github.com/AzhaanGlitch/arvialo-docs/tree/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/arvialo/arvialo' }
+      { icon: 'github', link: 'https://github.com/AzhaanGlitch/arvialo-docs' }
     ],
 
     sidebar: [

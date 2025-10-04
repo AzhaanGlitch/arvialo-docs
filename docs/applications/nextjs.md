@@ -6,7 +6,7 @@ title: NextJS
 
 NextJS is a React framework that enables functionality such as server-side rendering and generating static websites.
 
-[Example repository.](https://github.com/arvialoio/arvialo-examples/tree/main/nextjs)
+[Example repository.](https://github.com/AzhaanGlitch/arvialo-docs-examples/tree/main/nextjs)
 
 ## Deploy with Nixpacks
 

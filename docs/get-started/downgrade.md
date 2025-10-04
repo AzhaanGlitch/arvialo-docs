@@ -54,7 +54,7 @@ Replace `4.0.0-beta.369` with the version number you want to downgrade to.
 For example, you can downgrade to `4.0.0-beta.333` or any previous version.
 
 ::: warning Note
-  Double-check the version number you are specifying to ensure you are downgrading to the correct version. You can check the Arvialo [release notes ↗](https://github.com/arvialoio/arvialo/releases) for version details.
+  Double-check the version number you are specifying to ensure you are downgrading to the correct version. You can check the Arvialo [release notes ↗](https://github.com/AzhaanGlitch/arvialo-docs/releases) for version details.
 :::
 
 

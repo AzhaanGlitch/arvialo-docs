@@ -13,7 +13,7 @@ hero:
       link: /get-started/introduction
     - theme: alt
       text: View Source Code
-      link: https://github.com/arvialo/arvialo
+      link: https://github.com/AzhaanGlitch/arvialo-docs
 
 # Icons used below on features are from https://lucide.dev/icons/ feel free to change them or change their colors if needed
 features:

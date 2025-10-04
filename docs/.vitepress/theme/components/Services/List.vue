@@ -468,7 +468,7 @@ const { preloadServices, handleImageError, hasImageError, isImageLoading, getFal
                         </div>
                     </div>
                 </div>
-                <button @click="navigateTo('https://github.com/arvialoio/arvialo/blob/v4.x/CONTRIBUTING.md', true)" class="add-service-btn text-gray-900 dark:text-white px-6 py-3 sm:px-4 sm:py-2 rounded-lg transition-colors text-sm sm:text-base w-full" style="background-color: rgba(101, 117, 133, 0.16);" onmouseover="this.style.backgroundColor='rgba(75, 85, 99, 0.25)'" onmouseout="this.style.backgroundColor='rgba(101, 117, 133, 0.16)'">
+                <button @click="navigateTo('https://github.com/AzhaanGlitch/arvialo-docs/blob/v4.x/CONTRIBUTING.md', true)" class="add-service-btn text-gray-900 dark:text-white px-6 py-3 sm:px-4 sm:py-2 rounded-lg transition-colors text-sm sm:text-base w-full" style="background-color: rgba(101, 117, 133, 0.16);" onmouseover="this.style.backgroundColor='rgba(75, 85, 99, 0.25)'" onmouseout="this.style.backgroundColor='rgba(101, 117, 133, 0.16)'">
                     Add Service
                 </button>
             </div>

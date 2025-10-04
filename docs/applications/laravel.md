@@ -6,7 +6,7 @@ title: Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.
 
-Example repository [here](https://github.com/arvialoio/arvialo-examples/tree/main/laravel).
+Example repository [here](https://github.com/AzhaanGlitch/arvialo-docs-examples/tree/main/laravel).
 
 ## Deploy with Nixpacks
 

@@ -7,7 +7,7 @@ title: Nuxt
 Nuxt is an open source framework that makes web development intuitive and powerful.
 Create performant and production-grade full-stack web apps and websites with confidence.
 
-[Example repository.](https://github.com/arvialoio/arvialo-examples/tree/main/nuxt)
+[Example repository.](https://github.com/AzhaanGlitch/arvialo-docs-examples/tree/main/nuxt)
 
 ## Server build (Nuxt, using `nuxt build`)
 
